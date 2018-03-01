@@ -1,5 +1,6 @@
 package com.me;
-//step 24 make sure all initial errors are gone here
+//step 24 make sure all initial errors are gone here, if so...
+//step 25 go to main to run program
 //step 1 make Bedroom class
 public class Bedroom {
 
