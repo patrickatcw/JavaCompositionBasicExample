@@ -1,4 +1,5 @@
 package com.me;
+//step 24 make sure all initial errors are gone here
 //step 1 make Bedroom class
 public class Bedroom {
 
